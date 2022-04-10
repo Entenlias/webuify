@@ -1,6 +1,6 @@
 {
   "name": "webuify",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "An Windows-Forms-Like approch for developing web applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
